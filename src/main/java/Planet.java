@@ -12,4 +12,8 @@ public class Planet {
         return this.name;
     }
 
+    public Long getSize(){
+        return this.size;
+    }
+
 }
