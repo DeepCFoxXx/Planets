@@ -1,0 +1,11 @@
+public class Planet {
+
+    private String name;
+    private long size;
+
+    public Planet(String name, long size){
+        this.name = name;
+        this.size = size;
+    }
+
+}
