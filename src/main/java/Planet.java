@@ -8,4 +8,8 @@ public class Planet {
         this.size = size;
     }
 
+    public String getName(){
+        return this.name;
+    }
+
 }
